@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shape - cisco-router</name>
+  <icon>cisco-router.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="7.5" y="3" width="12.2478" height="4.95" xlink:href="file:///Users/retgoat/workspace/DIA-shapes/png/cisco-router.png"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shape - windows-phone</name>
+  <icon>windows-phone.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="5.8" y="4.95" width="6" height="11.0497" xlink:href="file:///Users/retgoat/workspace/DIA-shapes/png/windows-phone.png"/>
+  </svg:svg>
+</shape>

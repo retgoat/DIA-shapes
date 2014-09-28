@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shape - tablet</name>
+  <icon>tablet.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="6.55" y="4.7" width="4.95" height="7.1223" xlink:href="file:///Users/retgoat/workspace/DIA-shapes/png/tablet.png"/>
+  </svg:svg>
+</shape>

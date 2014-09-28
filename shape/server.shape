@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shape - server</name>
+  <icon>server.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="6.6" y="5.25" width="7" height="15.0538" xlink:href="file:///Users/retgoat/workspace/DIA-shapes/png/server.png"/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shape - soho-wifi-router</name>
+  <icon>soho-wifi-router.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="7.65" y="4" width="8.9" height="6.8491" xlink:href="file:///Users/retgoat/workspace/DIA-shapes/png/soho-wifi-router.png"/>
+  </svg:svg>
+</shape>

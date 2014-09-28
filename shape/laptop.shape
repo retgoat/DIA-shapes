@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shape - laptop</name>
+  <icon>laptop.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="4.65" y="3.8" width="10.6562" height="6.25" xlink:href="file:///Users/retgoat/workspace/DIA-shapes/png/laptop.png"/>
+  </svg:svg>
+</shape>

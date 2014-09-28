@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shape - ftp-server</name>
+  <icon>ftp-server.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="6.7" y="5.35" width="8.55" height="16.0714" xlink:href="file:///Users/retgoat/workspace/DIA-shapes/png/ftp-server.png"/>
+  </svg:svg>
+</shape>

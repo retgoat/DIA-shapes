@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>shape - iphone</name>
+  <icon>iphone.png</icon>
+  <connections/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:image x="7.2" y="7.05" width="8" height="14.733" xlink:href="file:///Users/retgoat/workspace/DIA-shapes/png/iphone.png"/>
+  </svg:svg>
+</shape>
