@@ -20,4 +20,4 @@ Here is example diagramm created with this collection
 6. Create new Pull Request
 
 ##License
-All code is licensed under the [MIT License.](https://github.com/retgoat/syncthing-ruby/blob/master/LICENSE.txt)
+All code is licensed under the [MIT License.](https://github.com/retgoat/DIA-shapes/blob/master/LICENSE.txt)
